@@ -1,0 +1,9 @@
+<eResourceEntry  timestamp='1389532817955' resUri='platform:/resource/TDT4100/src/stateandbehavior/LocationTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1389532819597' resUri='platform:/resource/TDT4100/src/stateandbehavior/LocationTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testLeft'/>
+<eObjectEntry  timestamp='1389532821566' resUri='platform:/resource/TDT4100/src/stateandbehavior/LocationTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1389532824715' resUri='platform:/resource/TDT4100/src/stateandbehavior/LocationTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testUp'/>
+<eObjectEntry  timestamp='1389532826286' resUri='platform:/resource/TDT4100/src/stateandbehavior/LocationTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1389532828859' resUri='platform:/resource/TDT4100/src/stateandbehavior/LocationTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testRight'/>
+<eObjectEntry  timestamp='1389532830456' resUri='platform:/resource/TDT4100/src/stateandbehavior/LocationTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1389532833728' resUri='platform:/resource/TDT4100/src/stateandbehavior/LocationTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testDown'/>
+<eObjectEntry  timestamp='1389532835303' resUri='platform:/resource/TDT4100/src/stateandbehavior/LocationTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='true'/>

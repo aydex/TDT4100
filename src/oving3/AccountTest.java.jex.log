@@ -1,0 +1,19 @@
+<eResourceEntry  timestamp='1391076136491' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1391076137936' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testAccount'/>
+<eObjectEntry  timestamp='1391076144528' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1391076454420' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testAccount'/>
+<eObjectEntry  timestamp='1391076458717' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1391076558105' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testAccount'/>
+<eObjectEntry  timestamp='1391076561220' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1391076776585' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testSetInterestRate'/>
+<eObjectEntry  timestamp='1391076779343' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1391076853928' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testSetInterestRate'/>
+<eObjectEntry  timestamp='1391076855568' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1391076859061' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDeposit'/>
+<eObjectEntry  timestamp='1391076860601' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1391076863665' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testDepositNegativeAmount'/>
+<eObjectEntry  timestamp='1391076865196' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1391076867996' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.4' key='junit test launch' value='testWithdraw'/>
+<eObjectEntry  timestamp='1391076869555' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.4' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1391076871935' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.5' key='junit test launch' value='testWithdrawTooLargeAmount'/>
+<eObjectEntry  timestamp='1391076873662' resUri='platform:/resource/TDT4100/src/oving3/AccountTest.java.jex' fragmentId='//@requirements.0/@requirements.5' key='test run status' value='true'/>

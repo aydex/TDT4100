@@ -1,0 +1,30 @@
+<eResourceEntry  timestamp='1390223372938' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1390223374480' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testPush'/>
+<eObjectEntry  timestamp='1390223376964' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390223385126' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testPop'/>
+<eObjectEntry  timestamp='1390223386762' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390223393958' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testPeek'/>
+<eObjectEntry  timestamp='1390223395611' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1390223422784' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testPeek'/>
+<eObjectEntry  timestamp='1390223424536' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1390223460162' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testPeek'/>
+<eObjectEntry  timestamp='1390223461842' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390223464942' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testGetSize'/>
+<eObjectEntry  timestamp='1390223466649' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390223821862' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.4' key='junit test launch' value='testGetRandomString'/>
+<eObjectEntry  timestamp='1390223823588' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.4' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1390225054262' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.4' key='junit test launch' value='testGetRandomString'/>
+<eObjectEntry  timestamp='1390225056002' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.4' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1390269129689' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.4' key='junit test launch' value='testGetRandomString'/>
+<eObjectEntry  timestamp='1390269131369' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.4' key='test run status' value='true'/>
+<eResourceEntry  timestamp='1390571295669' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1390571298384' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testPush'/>
+<eObjectEntry  timestamp='1390571300008' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390571303061' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testPop'/>
+<eObjectEntry  timestamp='1390571304647' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390571307356' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testPeek'/>
+<eObjectEntry  timestamp='1390571308952' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390571311696' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testGetSize'/>
+<eObjectEntry  timestamp='1390571313402' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390571315858' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.4' key='junit test launch' value='testGetRandomString'/>
+<eObjectEntry  timestamp='1390571317409' resUri='platform:/resource/TDT4100/src/oving2/StackTest.java.jex' fragmentId='//@requirements.0/@requirements.4' key='test run status' value='true'/>

@@ -1,0 +1,18 @@
+<eResourceEntry  timestamp='1390218591791' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1390218593777' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testSetFirstOperand'/>
+<eObjectEntry  timestamp='1390218595532' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390218599763' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testSetSecondOperand'/>
+<eObjectEntry  timestamp='1390218601304' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390218603702' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testSetOperator'/>
+<eObjectEntry  timestamp='1390218605368' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390218607786' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testCalculateResult'/>
+<eObjectEntry  timestamp='1390218609328' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='true'/>
+<eResourceEntry  timestamp='1390571225995' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1390571226908' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testSetFirstOperand'/>
+<eObjectEntry  timestamp='1390571243027' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390571246601' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testSetSecondOperand'/>
+<eObjectEntry  timestamp='1390571253874' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390571256688' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testSetOperator'/>
+<eObjectEntry  timestamp='1390571274721' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1390571277588' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testCalculateResult'/>
+<eObjectEntry  timestamp='1390571279156' resUri='platform:/resource/TDT4100/src/oving2/CalculatorTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='true'/>

@@ -1,0 +1,19 @@
+<eResourceEntry  timestamp='1389449906055' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1389449922839' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testDigit'/>
+<eObjectEntry  timestamp='1389449924525' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1389449929451' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testIncrement'/>
+<eObjectEntry  timestamp='1389449931099' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1389450006983' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testIncrement'/>
+<eObjectEntry  timestamp='1389450008827' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1389450027502' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testIncrement'/>
+<eObjectEntry  timestamp='1389450029204' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1389450303936' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.5' key='junit test launch' value='testToString'/>
+<eObjectEntry  timestamp='1389450305555' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.5' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1389450373418' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testIncrement'/>
+<eObjectEntry  timestamp='1389450379217' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1389450387884' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testIncrement'/>
+<eObjectEntry  timestamp='1389450389468' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1389450396774' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.5' key='junit test launch' value='testToString'/>
+<eObjectEntry  timestamp='1389450398375' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.5' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1389450416250' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testDigit'/>
+<eObjectEntry  timestamp='1389450417850' resUri='platform:/resource/TDT4100/src/stateandbehavior.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
