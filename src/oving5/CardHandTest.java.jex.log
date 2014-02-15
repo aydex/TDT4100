@@ -1,0 +1,11 @@
+<eResourceEntry  timestamp='1392433602373' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1392433603348' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testConstructor'/>
+<eObjectEntry  timestamp='1392433605078' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392433607336' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testDeal'/>
+<eObjectEntry  timestamp='1392433609123' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392433632620' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testDeal'/>
+<eObjectEntry  timestamp='1392433634241' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392433638895' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDealPlay'/>
+<eObjectEntry  timestamp='1392433640519' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392433651866' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDealPlay'/>
+<eObjectEntry  timestamp='1392433653461' resUri='platform:/resource/TDT4100/src/oving5/CardHandTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>

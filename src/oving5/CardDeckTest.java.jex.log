@@ -1,0 +1,27 @@
+<eResourceEntry  timestamp='1392431033500' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1392431035111' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testConstructor'/>
+<eObjectEntry  timestamp='1392431037202' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392431182870' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testConstructor'/>
+<eObjectEntry  timestamp='1392431184524' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392431692900' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testConstructor'/>
+<eObjectEntry  timestamp='1392431694561' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392431747933' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testConstructor'/>
+<eObjectEntry  timestamp='1392431750189' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392431824370' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testConstructor'/>
+<eObjectEntry  timestamp='1392431825993' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392431846266' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testConstructor'/>
+<eObjectEntry  timestamp='1392431847914' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392431852662' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testShufflePerfectly'/>
+<eObjectEntry  timestamp='1392431854266' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392433056467' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testShufflePerfectly'/>
+<eObjectEntry  timestamp='1392433058051' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392433087313' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDeal'/>
+<eObjectEntry  timestamp='1392433088944' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392433113281' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDeal'/>
+<eObjectEntry  timestamp='1392433114944' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392433188760' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDeal'/>
+<eObjectEntry  timestamp='1392433190376' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392433559481' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDeal'/>
+<eObjectEntry  timestamp='1392433561102' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392433595920' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDeal'/>
+<eObjectEntry  timestamp='1392433597501' resUri='platform:/resource/TDT4100/src/oving5/CardDeckTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
