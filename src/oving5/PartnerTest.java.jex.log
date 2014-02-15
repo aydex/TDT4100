@@ -1,0 +1,23 @@
+<eResourceEntry  timestamp='1392434848361' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1392434850125' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testConstructor'/>
+<eObjectEntry  timestamp='1392434852194' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392434856273' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testPartner'/>
+<eObjectEntry  timestamp='1392434857981' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392435310808' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testPartner'/>
+<eObjectEntry  timestamp='1392435312501' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392436115192' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testPartner'/>
+<eObjectEntry  timestamp='1392436116941' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392436119907' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDivorce'/>
+<eObjectEntry  timestamp='1392436121536' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392436124727' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testSwinger'/>
+<eObjectEntry  timestamp='1392436126392' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392437061585' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testSwinger'/>
+<eObjectEntry  timestamp='1392437063258' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392437615366' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testSwinger'/>
+<eObjectEntry  timestamp='1392437617049' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392437707406' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testConstructor'/>
+<eObjectEntry  timestamp='1392437709011' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392437711585' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testPartner'/>
+<eObjectEntry  timestamp='1392437713213' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392437715464' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDivorce'/>
+<eObjectEntry  timestamp='1392437717191' resUri='platform:/resource/TDT4100/src/oving5/PartnerTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
