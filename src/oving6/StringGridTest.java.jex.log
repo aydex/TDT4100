@@ -1,0 +1,31 @@
+<eResourceEntry  timestamp='1392821050341' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1392821063316' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testGrid'/>
+<eObjectEntry  timestamp='1392821065178' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392821137744' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testGrid'/>
+<eObjectEntry  timestamp='1392821139509' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392821200825' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testGrid'/>
+<eObjectEntry  timestamp='1392821202511' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392823090496' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testGrid'/>
+<eObjectEntry  timestamp='1392823092175' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1392823983632' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testGridIteratorColumnMajor'/>
+<eObjectEntry  timestamp='1392823985290' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392824093620' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testGridIteratorColumnMajor'/>
+<eObjectEntry  timestamp='1392824095317' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eResourceEntry  timestamp='1393550312547' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1393550318359' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testGrid'/>
+<eObjectEntry  timestamp='1393550320246' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393550324124' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testGridIteratorRowMajor'/>
+<eObjectEntry  timestamp='1393550325919' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393550517580' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testGridIteratorRowMajor'/>
+<eObjectEntry  timestamp='1393550519286' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393550655597' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testGridIteratorRowMajor'/>
+<eObjectEntry  timestamp='1393550657236' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393554002767' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testGridIteratorRowMajor'/>
+<eObjectEntry  timestamp='1393554004374' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393554033835' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testGridIteratorColumnMajor'/>
+<eObjectEntry  timestamp='1393554035536' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393554069232' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testGrid'/>
+<eObjectEntry  timestamp='1393554070806' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393554078075' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393554078088' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393554078092' resUri='platform:/resource/TDT4100/src/oving6/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
