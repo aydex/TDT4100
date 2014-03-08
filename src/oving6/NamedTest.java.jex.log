@@ -27,3 +27,6 @@
 <eObjectEntry  timestamp='1393557547211' resUri='platform:/resource/TDT4100/src/oving6/NamedTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
 <eObjectEntry  timestamp='1393558795641' resUri='platform:/resource/TDT4100/src/oving6/NamedTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testNamedComparator'/>
 <eObjectEntry  timestamp='1393558797269' resUri='platform:/resource/TDT4100/src/oving6/NamedTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393591989203' resUri='platform:/resource/TDT4100/src/oving6/NamedTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393591989217' resUri='platform:/resource/TDT4100/src/oving6/NamedTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393591989220' resUri='platform:/resource/TDT4100/src/oving6/NamedTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
