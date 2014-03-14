@@ -4,6 +4,7 @@ public class SpaceShip extends SpaceObject {
 	
 	SpaceShip() {
 		this.setSpeed(0, 0);
+		this.mass = 1;
 	}
 	
 	public double getMass() {

@@ -4,7 +4,7 @@ import javafx.geometry.Point2D;
 
 public class SpaceObject extends BaseSpaceObject {
 	
-	private double mass = 0;
+	protected double mass = 0;
 	private Point2D speed = new Point2D(mass, mass);
 	
 	public Point2D getSpeed() {
@@ -41,12 +41,10 @@ public class SpaceObject extends BaseSpaceObject {
 	
 
 	public void tick() {
+		System.out.println("Object is at: " + this.getTranslateX() + "," + this.getTranslateY());
+		System.out.println("Moving with speed of " + this.speed.getX() + "," + this.speed.getY());
 		this.translate(this.speed.getX(), this.speed.getY());
-	}
-
-	public void translate(double x, double y) {
-		// TODO Auto-generated method stub
-		
+		System.out.println("Object now is at: " + this.getTranslateX() + "," + this.getTranslateY());
 	}
 
 }

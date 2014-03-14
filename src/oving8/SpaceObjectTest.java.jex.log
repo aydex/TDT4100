@@ -9,3 +9,15 @@
 <eObjectEntry  timestamp='1394719560715' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
 <eObjectEntry  timestamp='1394719765177' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testTick'/>
 <eObjectEntry  timestamp='1394719767013' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1394721811304' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testTick'/>
+<eObjectEntry  timestamp='1394721813085' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1394722402834' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testTick'/>
+<eObjectEntry  timestamp='1394722404620' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1394722580321' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testTick'/>
+<eObjectEntry  timestamp='1394722582180' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1394722603053' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testApplyForce'/>
+<eObjectEntry  timestamp='1394722604870' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1394722671816' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testApplyForce'/>
+<eObjectEntry  timestamp='1394722673586' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1394722719777' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='junit test launch' value='testApplyForce'/>
+<eObjectEntry  timestamp='1394722721543' resUri='platform:/resource/TDT4100/src/oving8/SpaceObjectTest.java.jex' fragmentId='//@requirements.0/@requirements.3' key='test run status' value='true'/>

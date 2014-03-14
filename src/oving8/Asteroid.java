@@ -8,10 +8,11 @@ public class Asteroid extends SpaceObject {
 	public Asteroid(double density, double radius) {
 		this.density = density;
 		this.radius = radius;
+		this.mass = density*(4/3*Math.PI*(Math.pow(radius,3)));
 	}
 	
 	public double getMass() {
-		return density*(4/3*Math.PI*(Math.pow(radius,3)));
+		return this.mass;
 	}
 
 }
