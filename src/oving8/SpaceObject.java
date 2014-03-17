@@ -32,10 +32,16 @@ public class SpaceObject extends BaseSpaceObject {
 	}
 	
 	public boolean intersects(SpaceObject other) {
-		if (this.contains(other, other.getPointCount())) {
-			return true;
+		for (int i = 0; i < other.getPointCount(); i++) {
+			if (this.contains(other, i)) {
+				return true;
+			}
+		}
+		
+		if (this.contains(other.getCenter(true))) {
+			return true;			
 		} else {
-			return false;			
+			return false;
 		}
 	}
 	
