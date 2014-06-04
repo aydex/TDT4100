@@ -49,7 +49,7 @@ public class Sokoban implements ConsoleGame{
 		}
 	}
 	public int move(char input) {
-		int retVal = 0;		
+		int retVal = 0;
 		Move move = new Move(input);
 		if (move.isMove()) {
 			int moveVal = board.move(move.getValue(), false);
